@@ -13,7 +13,7 @@ namespace DesignPatterns.Creational.AbstractFactory11A
 
         public override void Socorrer(Veiculo veiculo)
         {
-            Console.WriteLine($"Socorrendo veículo medio - Modelo {veiculo.Modelo}");
+            Console.WriteLine($"Socorrendo veículo médio - Modelo: {veiculo.Modelo}");
         }
     }
 }

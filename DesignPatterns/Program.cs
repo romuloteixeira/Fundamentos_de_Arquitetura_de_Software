@@ -1,4 +1,5 @@
 ﻿using System;
+using DesignPatterns.Creational.AbstractFactory11A;
 using DesignPatterns.FactoryMethod;
 using ExecucaoAbstractFactory = DesignPatterns.AbstractFactory.ExecucaoAbstractFactory;
 
@@ -42,7 +43,7 @@ namespace DesignPatterns
                     ExecucaoAbstractFactory.Executar();
                     break;
                 case 'a':
-                    ExecucaoAbstractFactory.Executar();
+                    ExecucaoAbstractAFactory.Executar();
                     break;
                 case '2':
                     ExecucaoFactoryMethod.Executar();

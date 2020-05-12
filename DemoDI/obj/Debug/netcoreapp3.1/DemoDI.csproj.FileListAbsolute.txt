@@ -8,3 +8,13 @@ C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\DemoDI\obj\Debug
 C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\DemoDI\obj\Debug\netcoreapp3.1\DemoDI.pdb
 C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\DemoDI\obj\Debug\netcoreapp3.1\DemoDI.csprojAssemblyReference.cache
 C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\DemoDI\obj\Debug\netcoreapp3.1\DemoDI.RazorCoreGenerate.cache
+C:\Romulo\Source\General\Fundamentos_de_Arquitetura_de_Software\DemoDI\obj\Debug\netcoreapp3.1\DemoDI.csprojAssemblyReference.cache
+C:\Romulo\Source\General\Fundamentos_de_Arquitetura_de_Software\DemoDI\obj\Debug\netcoreapp3.1\DemoDI.csproj.CoreCompileInputs.cache
+C:\Romulo\Source\General\Fundamentos_de_Arquitetura_de_Software\DemoDI\obj\Debug\netcoreapp3.1\DemoDI.MvcApplicationPartsAssemblyInfo.cache
+C:\Romulo\Source\General\Fundamentos_de_Arquitetura_de_Software\DemoDI\obj\Debug\netcoreapp3.1\DemoDI.AssemblyInfoInputs.cache
+C:\Romulo\Source\General\Fundamentos_de_Arquitetura_de_Software\DemoDI\obj\Debug\netcoreapp3.1\DemoDI.AssemblyInfo.cs
+C:\Romulo\Source\General\Fundamentos_de_Arquitetura_de_Software\DemoDI\obj\Debug\netcoreapp3.1\DemoDI.TagHelpers.input.cache
+C:\Romulo\Source\General\Fundamentos_de_Arquitetura_de_Software\DemoDI\obj\Debug\netcoreapp3.1\DemoDI.TagHelpers.output.cache
+C:\Romulo\Source\General\Fundamentos_de_Arquitetura_de_Software\DemoDI\obj\Debug\netcoreapp3.1\DemoDI.RazorCoreGenerate.cache
+C:\Romulo\Source\General\Fundamentos_de_Arquitetura_de_Software\DemoDI\obj\Debug\netcoreapp3.1\DemoDI.dll
+C:\Romulo\Source\General\Fundamentos_de_Arquitetura_de_Software\DemoDI\obj\Debug\netcoreapp3.1\DemoDI.pdb

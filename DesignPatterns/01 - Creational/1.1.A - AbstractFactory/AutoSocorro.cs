@@ -10,7 +10,7 @@ namespace DesignPatterns.Creational.AbstractFactory11A
 
         public AutoSocorro(AutoSocorroFactory autoSocorroFactory, Veiculo veiculo)
         {
-            this.veiculo = autoSocorroFactory.CriarVeiculo(modelo: veiculo.Modelo, porte: veiculo.Porte);
+            this.veiculo = autoSocorroFactory.CriarVeiculo(modelo: veiculo.Modelo);
             this.guincho = autoSocorroFactory.CriarGuincho();
         }
 

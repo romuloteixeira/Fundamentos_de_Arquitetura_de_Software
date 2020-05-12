@@ -13,3 +13,18 @@ C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\OOP\obj\Debug\ne
 C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\OOP\obj\Debug\netcoreapp3.1\OOP.dll
 C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\OOP\obj\Debug\netcoreapp3.1\OOP.pdb
 C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\OOP\obj\Debug\netcoreapp3.1\OOP.genruntimeconfig.cache
+C:\Romulo\Source\General\Fundamentos_de_Arquitetura_de_Software\OOP\bin\Debug\netcoreapp3.1\OOP.exe
+C:\Romulo\Source\General\Fundamentos_de_Arquitetura_de_Software\OOP\bin\Debug\netcoreapp3.1\OOP.deps.json
+C:\Romulo\Source\General\Fundamentos_de_Arquitetura_de_Software\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.json
+C:\Romulo\Source\General\Fundamentos_de_Arquitetura_de_Software\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.dev.json
+C:\Romulo\Source\General\Fundamentos_de_Arquitetura_de_Software\OOP\bin\Debug\netcoreapp3.1\OOP.dll
+C:\Romulo\Source\General\Fundamentos_de_Arquitetura_de_Software\OOP\bin\Debug\netcoreapp3.1\OOP.pdb
+C:\Romulo\Source\General\Fundamentos_de_Arquitetura_de_Software\OOP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Romulo\Source\General\Fundamentos_de_Arquitetura_de_Software\OOP\obj\Debug\netcoreapp3.1\OOP.csprojAssemblyReference.cache
+C:\Romulo\Source\General\Fundamentos_de_Arquitetura_de_Software\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.CoreCompileInputs.cache
+C:\Romulo\Source\General\Fundamentos_de_Arquitetura_de_Software\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfoInputs.cache
+C:\Romulo\Source\General\Fundamentos_de_Arquitetura_de_Software\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfo.cs
+C:\Romulo\Source\General\Fundamentos_de_Arquitetura_de_Software\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.CopyComplete
+C:\Romulo\Source\General\Fundamentos_de_Arquitetura_de_Software\OOP\obj\Debug\netcoreapp3.1\OOP.dll
+C:\Romulo\Source\General\Fundamentos_de_Arquitetura_de_Software\OOP\obj\Debug\netcoreapp3.1\OOP.pdb
+C:\Romulo\Source\General\Fundamentos_de_Arquitetura_de_Software\OOP\obj\Debug\netcoreapp3.1\OOP.genruntimeconfig.cache

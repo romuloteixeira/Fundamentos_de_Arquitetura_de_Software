@@ -2,15 +2,15 @@
 
 namespace DesignPatterns.Creational.AbstractFactory11A
 {
-    public abstract class ExecucaoAbstractFactory
+    public abstract class ExecucaoAbstractAFactory
     {
         public static void Executar()
         {
             var veiculosSocorro = new List<Veiculo>
             {
-                VeiculoCreator.Criar("Aris", Porte.Pequeno),
-                VeiculoCreator.Criar("308 SW", Porte.Medio),
-                VeiculoCreator.Criar("X6", Porte.Grande),
+                Veiculo.Criar("Aris", Porte.Pequeno),
+                Veiculo.Criar("308 SW", Porte.Medio),
+                Veiculo.Criar("X6", Porte.Grande),
             };
 
             veiculosSocorro.ForEach(veiculo => AutoSocorro.CriarAutoSocorro(veiculo).RealizarAtendimento());
