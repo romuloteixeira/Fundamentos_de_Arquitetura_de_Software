@@ -1,0 +1,15 @@
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\ProjetoB\bin\Debug\netcoreapp2.2\ProjetoB.deps.json
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\ProjetoB\bin\Debug\netcoreapp2.2\ProjetoB.runtimeconfig.json
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\ProjetoB\bin\Debug\netcoreapp2.2\ProjetoB.runtimeconfig.dev.json
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\ProjetoB\bin\Debug\netcoreapp2.2\ProjetoB.dll
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\ProjetoB\bin\Debug\netcoreapp2.2\ProjetoB.pdb
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\ProjetoB\bin\Debug\netcoreapp2.2\ProjetoA.dll
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\ProjetoB\bin\Debug\netcoreapp2.2\ProjetoA.pdb
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\ProjetoB\obj\Debug\netcoreapp2.2\ProjetoB.csprojAssemblyReference.cache
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\ProjetoB\obj\Debug\netcoreapp2.2\ProjetoB.csproj.CoreCompileInputs.cache
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\ProjetoB\obj\Debug\netcoreapp2.2\ProjetoB.AssemblyInfoInputs.cache
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\ProjetoB\obj\Debug\netcoreapp2.2\ProjetoB.AssemblyInfo.cs
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\ProjetoB\obj\Debug\netcoreapp2.2\ProjetoB.csproj.CopyComplete
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\ProjetoB\obj\Debug\netcoreapp2.2\ProjetoB.dll
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\ProjetoB\obj\Debug\netcoreapp2.2\ProjetoB.pdb
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\ProjetoB\obj\Debug\netcoreapp2.2\ProjetoB.genruntimeconfig.cache

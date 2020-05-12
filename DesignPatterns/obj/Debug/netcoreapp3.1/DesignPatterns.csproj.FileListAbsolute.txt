@@ -1,0 +1,13 @@
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.exe
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.deps.json
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.json
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.dev.json
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.dll
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.pdb
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfoInputs.cache
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfo.cs
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.dll
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.pdb
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.genruntimeconfig.cache
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csprojAssemblyReference.cache

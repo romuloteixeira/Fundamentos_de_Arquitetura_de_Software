@@ -1,0 +1,13 @@
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\ProjetoA\bin\Debug\netcoreapp3.1\ProjetoA.exe
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\ProjetoA\bin\Debug\netcoreapp3.1\ProjetoA.deps.json
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\ProjetoA\bin\Debug\netcoreapp3.1\ProjetoA.runtimeconfig.json
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\ProjetoA\bin\Debug\netcoreapp3.1\ProjetoA.runtimeconfig.dev.json
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\ProjetoA\bin\Debug\netcoreapp3.1\ProjetoA.dll
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\ProjetoA\bin\Debug\netcoreapp3.1\ProjetoA.pdb
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\ProjetoA\obj\Debug\netcoreapp3.1\ProjetoA.csproj.CoreCompileInputs.cache
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\ProjetoA\obj\Debug\netcoreapp3.1\ProjetoA.AssemblyInfoInputs.cache
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\ProjetoA\obj\Debug\netcoreapp3.1\ProjetoA.AssemblyInfo.cs
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\ProjetoA\obj\Debug\netcoreapp3.1\ProjetoA.dll
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\ProjetoA\obj\Debug\netcoreapp3.1\ProjetoA.pdb
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\ProjetoA\obj\Debug\netcoreapp3.1\ProjetoA.genruntimeconfig.cache
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\ProjetoA\obj\Debug\netcoreapp3.1\ProjetoA.csprojAssemblyReference.cache

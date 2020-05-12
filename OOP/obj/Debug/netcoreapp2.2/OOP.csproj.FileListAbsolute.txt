@@ -1,0 +1,12 @@
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\OOP\bin\Debug\netcoreapp2.2\OOP.deps.json
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\OOP\bin\Debug\netcoreapp2.2\OOP.runtimeconfig.json
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\OOP\bin\Debug\netcoreapp2.2\OOP.runtimeconfig.dev.json
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\OOP\bin\Debug\netcoreapp2.2\OOP.dll
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\OOP\bin\Debug\netcoreapp2.2\OOP.pdb
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\OOP\obj\Debug\netcoreapp2.2\OOP.csprojAssemblyReference.cache
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\OOP\obj\Debug\netcoreapp2.2\OOP.csproj.CoreCompileInputs.cache
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\OOP\obj\Debug\netcoreapp2.2\OOP.AssemblyInfoInputs.cache
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\OOP\obj\Debug\netcoreapp2.2\OOP.AssemblyInfo.cs
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\OOP\obj\Debug\netcoreapp2.2\OOP.dll
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\OOP\obj\Debug\netcoreapp2.2\OOP.pdb
+C:\Romulo\Source\General\Fundamentos de Arquitetura de Software\OOP\obj\Debug\netcoreapp2.2\OOP.genruntimeconfig.cache
